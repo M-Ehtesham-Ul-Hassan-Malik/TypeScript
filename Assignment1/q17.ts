@@ -42,9 +42,7 @@ for(let i = 0; i < oldguestlist.length; i++){
 
 
 
-
-
-
+export const guestlist: string[] = ["Ubaid Shah Shb", "Asif", "Khalil Chishti","Ahmed", "Ehtesham", "Mumtaz"];
 
 
 

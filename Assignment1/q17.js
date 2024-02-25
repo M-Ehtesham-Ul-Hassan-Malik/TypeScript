@@ -1,3 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.guestlist = void 0;
 var oldguestlist = ["Ubaid Shah Shb", "Asif", "Khalil Chishti"];
 for (var i = 0; i < oldguestlist.length; i++) {
     console.log("Mr", oldguestlist[i], "lets have a dinner together.");
@@ -27,3 +30,4 @@ while (oldguestlist.length != 2) {
 for (var i = 0; i < oldguestlist.length; i++) {
     console.log("Mr", oldguestlist[i], "please join me tonight for the dinner.");
 }
+exports.guestlist = ["Ubaid Shah Shb", "Asif", "Khalil Chishti", "Ahmed", "Ehtesham", "Mumtaz"];
