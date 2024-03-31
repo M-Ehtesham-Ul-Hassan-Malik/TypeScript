@@ -66,3 +66,7 @@ Contributions are welcome! If you'd like to add new functions, improve existing 
 6. Create a new pull request.
 
 Please ensure that your code follows TypeScript best practices and includes appropriate documentation and tests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
