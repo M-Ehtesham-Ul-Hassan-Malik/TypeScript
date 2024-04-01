@@ -14,7 +14,7 @@ git clone https://github.com/M-Ehtesham-Ul-Hassan-Malik/TypeScript.git
 2. Navigate to the project directory:
 
 ```bash
-cd calculator
+cd Simple_Calculator
 ```
 
 3. Install dependencies:
