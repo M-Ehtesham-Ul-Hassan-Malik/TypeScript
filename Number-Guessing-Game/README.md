@@ -1,0 +1,1 @@
+This is simple cli based number guessing game using TypeScript.
