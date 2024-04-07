@@ -1,0 +1,22 @@
+{
+  "name": "number-guessing-game_by_ehtesham",
+  "version": "1.0.0",
+  "description": "This project is a command-line interface (CLI) based number guessing game developed using TypeScript and the inquirer library. The game generates a random number between 1 and 10, and the player's objective is to guess the correct number.",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M Ehtesham Ul Hassan Malik",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
