@@ -44,6 +44,10 @@ This command will fetch the `basic-math-util-calculator` package from the npm re
 
 - [inquirer](https://www.npmjs.com/package/inquirer): A command-line interface for Node.js.
 
+## Versions
+Version 1.0.0: Initial release with basic arithmetic operations.
+Version 1.1.0: Added modulus calculation function.
+
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
