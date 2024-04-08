@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-This is a simple command-line program built with Node.js that allows the user to guess a randomly generated number between 1 and 10.
+This is a simple command-line program built with TypeScript, Node.js, and Inquirer that allows the user to guess a randomly generated number between 1 and 10.
 
 ## Instructions
 
