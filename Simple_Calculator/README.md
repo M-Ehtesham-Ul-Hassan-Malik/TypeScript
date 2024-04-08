@@ -46,6 +46,7 @@ This command will fetch the `basic-math-util-calculator` package from the npm re
 
 ## Versions
 Version 1.0.0: Initial release with basic arithmetic operations.
+<br>
 Version 1.1.0: Added modulus calculation function.
 
 ## Contributing
