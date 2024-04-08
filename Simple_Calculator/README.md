@@ -4,7 +4,7 @@
 Simple calculator application developed using TypeScript, Node.js, and Inquirer.
 
 ## Usage
-s
+
 1. Clone the repository:
 
 ```bash
