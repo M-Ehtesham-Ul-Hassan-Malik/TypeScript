@@ -4,7 +4,7 @@
 A simple ATM console application built with Node.js and inquirer.js that simulates basic banking operations such as depositing money, withdrawing money, checking balance, and donating to NGOs.
 
 #### Features
-- Login with a secret PIN.
+- Login with a secret PIN (i.e: 4824).
 - Deposit money into the account.
 - Withdraw money from the account (with validation for insufficient funds).
 - Check the current account balance.
