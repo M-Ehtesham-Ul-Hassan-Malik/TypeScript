@@ -1,0 +1,23 @@
+{
+  "name": "cli-atm-machine-ehtesham",
+  "version": "1.0.0",
+  "description": "A simple ATM console application built with Node.js and inquirer.js that simulates basic banking operations such as depositing money, withdrawing money, checking balance, and donating to NGOs.",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "M Ehtesham Ul Hassan Malik",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
