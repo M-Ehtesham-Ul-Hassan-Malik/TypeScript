@@ -39,6 +39,11 @@ A simple ATM console application built with Node.js and inquirer.js that simulat
 
 ## Versions
 Version 1.0.0: Initial release with basic banking operations such as depositing money, withdrawing money, checking balance, and donating to NGOs.
+<br>
+Version 1.0.1: To use the application directly from the command line without cloning the repository, you can use the following npx command:
+```
+npx basic-atm-machine-ehtesham
+```
 
 #### Dependencies
 - [inquirer](https://www.npmjs.com/package/inquirer): Used for interactive command-line prompts.
