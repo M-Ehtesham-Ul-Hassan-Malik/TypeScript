@@ -7,7 +7,7 @@ This is a simple command-line todo list application written in TypeScript. It al
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/M-Ehtesham-Ul-Hassan-Malik/TypeScript/Project-To-Do-List
+   git clone https://github.com/M-Ehtesham-Ul-Hassan-Malik/TypeScript/tree/main/Project-To-Do-List
    ```
 
 2. **Install dependencies:**
