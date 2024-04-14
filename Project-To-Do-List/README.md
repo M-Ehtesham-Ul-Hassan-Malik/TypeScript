@@ -1,4 +1,4 @@
-# TypeScript Todo List CLI (Version 1.0.1)
+# TypeScript Todo List CLI (Version 1.0.2)
 
 This is a simple command-line todo list application written in TypeScript. It allows users to manage tasks interactively by adding, deleting, updating, and viewing tasks.
 
