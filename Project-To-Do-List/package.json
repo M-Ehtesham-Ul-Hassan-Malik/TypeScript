@@ -1,0 +1,23 @@
+{
+  "name": "@k224824/project-to-do-list",
+  "version": "1.0.2",
+  "description": "This is a simple command-line todo list application developed using TypeScript, Node.js & inquirer. It allows users to manage tasks interactively by adding, deleting, updating, and viewing tasks.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "M Ehtesham Ul Hassan Malik",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
