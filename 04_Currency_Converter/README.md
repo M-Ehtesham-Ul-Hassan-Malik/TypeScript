@@ -11,9 +11,11 @@ A simple command-line application to convert currency amounts using real-time ex
 - Allows user to select currencies and amount for conversion
 - Displays converted amount
 
-## Version
+## Version History
 
-This is version 1.0.0 of the Currency Converter program.
+The version 1.0.0 was initaial version of the program.
+This is version 1.0.1 of the Currency Converter program after fixing bugs.
+
 
 ## Installation
 
