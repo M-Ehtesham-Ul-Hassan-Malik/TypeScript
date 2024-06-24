@@ -8,8 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "M Ehtesham Ul Hassan Malik",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
     "inquirer": "^9.2.23",
