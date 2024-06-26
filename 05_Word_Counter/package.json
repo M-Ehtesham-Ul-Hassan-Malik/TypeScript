@@ -1,0 +1,21 @@
+{
+  "name": "05_word_counter",
+  "version": "1.0.0",
+  "description": "A command-line application to count the number of characters (excluding spaces) in a given paragraph using TypeScript.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {"access": "public"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
