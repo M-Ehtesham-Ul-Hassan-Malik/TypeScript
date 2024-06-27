@@ -12,10 +12,10 @@ TypeScript (version 4 or higher)
 
 ## Installation
 
-Clone the repository: git clone https://github.com/M-Ehtesham-Ul-Hassan-Malik/TypeScript
-cd 06_Student_Managment_System
-Install dependencies: npm install inquirer
-Start the application: npm start
+* Clone the repository: git clone https://github.com/M-Ehtesham-Ul-Hassan-Malik/TypeScript
+* Change into the project directory: cd 06_Student_Managment_System
+* Install dependencies: npm install
+* Start the application: npm start
 
 ## Usage
 Running the Application
