@@ -1,7 +1,7 @@
 {
   "name": "06_student_managment_system",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a Student Management System built using TypeScript.",
   "main": "index.js",
   "type": "module",
   "publishConfig": {
@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.23"
   },
